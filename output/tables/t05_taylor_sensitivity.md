@@ -1,0 +1,11 @@
+**Table 5. One-at-a-time sensitivity: Rule A with a single element changed (episode means, %).**
+
+| Change from Rule A | i^TR tightening | i−i^TR tightening | i^TR easing | i−i^TR easing |
+|---|---|---|---|---|
+| Rule A (baseline) | 8.50 | -3.00 | 3.21 | 2.58 |
+| r* = 1.0 | 8.00 | -2.50 | 2.71 | 3.08 |
+| r* = 1.9 | 8.90 | -3.40 | 3.61 | 2.18 |
+| θπ = 1.0 | 9.83 | -4.33 | 2.32 | 3.47 |
+| θy = 1.0 | 7.51 | -2.01 | 3.58 | 2.21 |
+| Hamilton gap | 11.81 | -6.32 | 5.12 | 0.67 |
+| Trend+break gap | 9.79 | -4.30 | 3.16 | 2.63 |
